@@ -4,9 +4,8 @@ const App = () => {
   const images=[
     './image/lake.jpg',               //1
      './image/landscape.jpg',         //2
-     './image/sunset.jpg',            //3
-     './image/21.jpg',                //4
-     './image/lake.jpg',              //5
+     './image/sunset.jpg',            //3   
+     './image/lake.jpg',              //4
   ]
 
   const [current,setCurrent]=useState(0)
